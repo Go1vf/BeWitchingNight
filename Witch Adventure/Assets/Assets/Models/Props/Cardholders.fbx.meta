@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 313095d6372f24670918f8da492a9c7e
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Gold
+    second: {fileID: 2100000, guid: 5dbbaebc17fa3f74ebfeb69a2365eb52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_LabelA
+    second: {fileID: 2100000, guid: 112b6f666d0ba438f920306f46447b23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_LabelB
+    second: {fileID: 2100000, guid: da4394c82e05342d8868e11bf90721fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_LabelC
+    second: {fileID: 2100000, guid: 10329873a332647b7a4a90cecdd04a89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_LabelD
+    second: {fileID: 2100000, guid: b84acdfaca3a6408bbd2b8c361d9573d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_LabelE
+    second: {fileID: 2100000, guid: 7d0ec658557c54d9b8b055e181077fea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_LabelF
+    second: {fileID: 2100000, guid: eeed0c126b48044f88272bc7be1a0cee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_LabelG
+    second: {fileID: 2100000, guid: 41b6b109863224a708a44f1f3e2e4793, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_LabelH
+    second: {fileID: 2100000, guid: cd6e442e911ac4a6aa9a996ef3de9523, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_LabelI
+    second: {fileID: 2100000, guid: e79a4048a84bc430aaa6e31d81897552, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_LabelJ
+    second: {fileID: 2100000, guid: 8004f216f565b4c56b76a47b9383ba6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_LabelK
+    second: {fileID: 2100000, guid: 77b53fc94a2694845a7e5107e6eb72a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_LabelL
+    second: {fileID: 2100000, guid: ff3426dd9e42d4c62827036f5c6c131d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_LabelM
+    second: {fileID: 2100000, guid: ab8479f62084c46f9b869c9ecc82fada, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_LabelN
+    second: {fileID: 2100000, guid: 9cf47c8e8cb514594a9d55a699b8ebd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_LabelNum
+    second: {fileID: 2100000, guid: 011552212f71f40c3940235fced38f7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_LabelO
+    second: {fileID: 2100000, guid: 41baa2d6d5e6440cfa7d0a2d945e1c26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_LabelP
+    second: {fileID: 2100000, guid: 08a0ef7c395a44d01b45b12fd132dafa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_LabelQ
+    second: {fileID: 2100000, guid: 6aa69c29adf06458ba145d3326b944c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_LabelR
+    second: {fileID: 2100000, guid: 2c943865e45634ed783274edc3d5f617, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_LabelS
+    second: {fileID: 2100000, guid: 1114eb99f97894f278b3c4ad57116e46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_LabelT
+    second: {fileID: 2100000, guid: 2f67f4b83eb4d4060bb72fb5bb897d9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_LabelU
+    second: {fileID: 2100000, guid: 3ffaf7991ef92461f98431ae8d225086, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_LabelV
+    second: {fileID: 2100000, guid: 14369b1c044014ddc862db0856919fd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_LabelW
+    second: {fileID: 2100000, guid: 0c83910243107449d9ea753227bddc29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_LabelX
+    second: {fileID: 2100000, guid: 65788beb5e25f461b88ea66063abe47e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_LabelY
+    second: {fileID: 2100000, guid: e98e882996ff84c219b5d75a3d211af0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_LabelZ
+    second: {fileID: 2100000, guid: cfe4e8fd6884d4a75bc025bfcf7022b9, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CardHolderLabel
+    second: {fileID: 2800000, guid: be4bd4a572b6943c2a0f75b254534093, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CardHolderLabelB
+    second: {fileID: 2800000, guid: 1025537fdd51d4a4ba63a6159b666e46, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CardHolderLabelC
+    second: {fileID: 2800000, guid: 46e9995027ae74364bdc26cb0d069fc4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CardHolderLabelD
+    second: {fileID: 2800000, guid: 09d7d67c05e444e52b7cdd61e5250335, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CardHolderLabelE
+    second: {fileID: 2800000, guid: 5f14bd323e7c8451e972379bff44e7cb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CardHolderLabelF
+    second: {fileID: 2800000, guid: fd523aa98ad944fa9ace77320615fb0a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CardHolderLabelG
+    second: {fileID: 2800000, guid: 3d38f05dde9c146d8b59b287f72a8edf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CardHolderLabelH
+    second: {fileID: 2800000, guid: ec5eb38eeb61a4789b65d23261dc8524, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CardHolderLabelI
+    second: {fileID: 2800000, guid: 277f154a5688f4e4eac399d16d9d43b8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CardHolderLabelJ
+    second: {fileID: 2800000, guid: 07a4ad5e84c114a2285a771942ac5646, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CardHolderLabelK
+    second: {fileID: 2800000, guid: e1f72b5832d7541c79fbdae842c5b5b9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CardHolderLabelL
+    second: {fileID: 2800000, guid: 643af4e115c394df18bbdcd986dec605, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CardHolderLabelM
+    second: {fileID: 2800000, guid: 5c71368ee7f6943ad9cf56cd3bb59539, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CardHolderLabelN
+    second: {fileID: 2800000, guid: 77b713b086a1744d3a0d99f0eb3b5c34, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CardHolderLabelNumbers
+    second: {fileID: 2800000, guid: 22985c03f0d5d49c9bdba3363f42366c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CardHolderLabelO
+    second: {fileID: 2800000, guid: eed9ba2a357114e7f9ea28e9b297fa95, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CardHolderLabelP
+    second: {fileID: 2800000, guid: d78ee1d2a8bd14f70bcc3de463faf4db, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CardHolderLabelQ
+    second: {fileID: 2800000, guid: 059ddc743ca0848e3a114fc68086eb4f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CardHolderLabelR
+    second: {fileID: 2800000, guid: 18bb1e8b33e2d4474913c88b450a94df, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CardHolderLabelS
+    second: {fileID: 2800000, guid: 2c4aa7ff700e24470bf380ff924cb52a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CardHolderLabelT
+    second: {fileID: 2800000, guid: ce5405888ac34431f819272b25566801, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CardHolderLabelU
+    second: {fileID: 2800000, guid: 9c23740b1e8664c4fa970efc90e97d11, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CardHolderLabelV
+    second: {fileID: 2800000, guid: 4e80f938ca5af451cba04bf2ed819011, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CardHolderLabelW
+    second: {fileID: 2800000, guid: 729d1d910e3df4f84bfcece2349e529a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CardHolderLabelX
+    second: {fileID: 2800000, guid: 47d521aec2f00437891372d021be32e0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CardHolderLabelY
+    second: {fileID: 2800000, guid: 1e536697c538549638b599b68ee7cff7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CardHolderLabelZ
+    second: {fileID: 2800000, guid: 88b9af343feba4b48aeab23f823aff46, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
